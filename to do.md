@@ -14,7 +14,7 @@ Media
 Reference
 * Begin writing specifications for code style, implementation, and documentation
 * Begin documentation of Darkside OS
-* Create template for project logs
+* Create a template for project logs
 
 Projects
 * Finish concepting Kraken with Noah S
